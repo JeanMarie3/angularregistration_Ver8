@@ -1,12 +1,13 @@
 export const environment = {
   firebase: {
-  apiKey: "AIzaSyB2lufNFnxsnMTo6VJbR_1wN9Ierte4APw",
-  authDomain: "angularregistration-ver8.firebaseapp.com",
-  databaseURL: "https://angularregistration-ver8-default-rtdb.firebaseio.com",
-  projectId: "angularregistration-ver8",
-  storageBucket: "angularregistration-ver8.appspot.com",
-  messagingSenderId: "69462767850",
-  appId: "1:69462767850:web:55e6ee49b731972b8e7f93"
+    apiKey: "AIzaSyAcF2bSRepcs5iztcr2hGZe3sqWR592kbM",
+    authDomain: "angularregistrationform-12b01.firebaseapp.com",
+    databaseURL: "https://angularregistrationform-12b01-default-rtdb.firebaseio.com",
+    projectId: "angularregistrationform-12b01",
+    storageBucket: "angularregistrationform-12b01.appspot.com",
+    messagingSenderId: "25670701526",
+    appId: "1:25670701526:web:2571ac051977adb3f11477",
+    measurementId: "G-SYY2ZGCPCE"
   },
   production: true
 };
