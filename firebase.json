@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "angularregistration_Ver8",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
