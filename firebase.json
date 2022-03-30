@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "angularregistration_Ver8",
+    "public": "src",
     "ignore": [
       "firebase.json",
       "**/.*",

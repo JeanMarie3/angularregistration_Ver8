@@ -107,8 +107,8 @@
             "prerender": false,
             "ssr": false,
             "browserTarget": "angularregistration_Ver8:build:production",
-            "firebaseProject": "angularregistrationform-12b01",
-            "firebaseHostingSite": "angularregistrationform-12b01"
+            "firebaseProject": "angularregistration_Ver8",
+            "firebaseHostingSite": "angularregistration_Ver8"
           }
         }
       }

@@ -1,14 +1,7 @@
 {
-  "targets": {
-    "angularregistrationform-12b01": {
-      "hosting": {
-        "angularregistration_Ver8": [
-          "angularregistrationform-12b01"
-        ]
-      }
-    }
-  },
   "projects": {
-    "default": "angularregistrationform-12b01"
-  }
+    "default": "angularregistration-ver8",
+    "angularver8": "angularregistration-ver8"
+  },
+  "targets": {}
 }
